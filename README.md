@@ -1,4 +1,4 @@
-**GraphQL .NET**
+# GraphQL .NET
 
  This Visual Studio template can helps you to create a Simple structure using GraphQL and .NET with two routes GetAll and GetById.
 
